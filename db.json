@@ -1,0 +1,542 @@
+{
+  "favourite": [],
+  "shop": [
+    {
+      "category": "снаряды",
+      "title": "штанга 1",
+      "image": "https://im0-tub-ru.yandex.net/i?id=10e49234bb22b0f9355202aab75a0a11&n=13",
+      "description": "атлетические снаряды",
+      "price": "15000",
+      "id": 2
+    },
+    {
+      "title": "футболка",
+      "image": "https://mdmgifts.ru/storage/app/media/sync/oasiscatalog/original/bbbb92ec28d85900.jpg",
+      "category": "футболка",
+      "description": "желтая XS, S, M, L, XL",
+      "price": "350",
+      "id": 3
+    },
+    {
+      "title": "коньки зимние",
+      "image": "https://images.ru.prom.st/824933679_w640_h640_konki-40-razmer.jpg",
+      "category": "зимний",
+      "description": "37,38,39.",
+      "price": "2800",
+      "id": 4
+    },
+    {
+      "title": "Лыжи",
+      "category": "Зимний",
+      "description": "Комфортабельные, саморегулирующиеся",
+      "price": "15000",
+      "image": "https://static4.depositphotos.com/1003531/374/v/600/depositphotos_3749144-stock-illustration-ski-and-ski-sticks.jpg",
+      "id": 7
+    },
+    {
+      "title": "Футболка адидас",
+      "category": "Футболка",
+      "description": "Хлопок, размеры(m, l, xl, xxl)",
+      "price": "669",
+      "image": "https://aknbarcin.b-cdn.net/products/2019/12/19/83135/e30aea19-91f0-4218-9ede-16424e8280d4_size530x530_quality90_cropCenter.jpg",
+      "id": 5
+    },
+    {
+      "title": "Штанга",
+      "image": "https://www.atlant-sport.ru/uploads/main_product_147005096385674000.jpg",
+      "category": "Спортивный инвентарь",
+      "description": "Штанга с блинами, общий вес 35 кг",
+      "price": "10000",
+      "id": 6
+    },
+    {
+      "category": "шорты",
+      "title": "Шорты",
+      "image": "https://ae01.alicdn.com/kf/Hdec3cde5c56443c382c5e13f97042a37g/2020.jpg",
+      "description": "Женские",
+      "price": "1499",
+      "id": 9
+    },
+    {
+      "category": "футболка",
+      "image": "https://all-t-shirts.ru/files/1474/1609/stingrays_0_0.jpg",
+      "title": "Футболка",
+      "description": "S,L,M,XL,XXL",
+      "price": "1000",
+      "id": 10
+    },
+    {
+      "category": "футболка",
+      "title": "Футболка",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999",
+      "image": "https://all-t-shirts.ru/files/1475/1610/eyes.jpg",
+      "id": 11
+    },
+    {
+      "category": "футболка",
+      "title": "Футболка",
+      "image": "https://q-shopp.ru/ogimage/630/9050/",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999",
+      "id": 12
+    },
+    {
+      "category": "футболка",
+      "title": "Футболка",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999",
+      "image": "http://ae01.alicdn.com/kf/H0381dea0c0624acabba618dad9b5792fi.jpg",
+      "id": 13
+    },
+    {
+      "category": "футболка",
+      "title": "Футболка",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999",
+      "image": "https://all-t-shirts.ru/files/1654/1815/apache_breakthru_thumb.jpg",
+      "id": 14
+    },
+    {
+      "category": "футболка",
+      "image": "https://all-t-shirts.ru/files/1499/1634/beware_of_pit_bulls.jpg",
+      "title": "Футболка",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999",
+      "id": 15
+    },
+    {
+      "title": "Футболка",
+      "price": "999",
+      "description": "S, L, M, XL, XXL ",
+      "category": "футболка",
+      "image": "https://all-t-shirts.ru/files/1474/1609/shark_attack_0.jpg",
+      "id": 16
+    },
+    {
+      "title": "Футболка",
+      "price": "999",
+      "description": "S, L, M, XL, XXL ",
+      "category": "футболка",
+      "image": "http://ae01.alicdn.com/kf/H026030359b8c4c03872efb97ccfb58cfk/SONSPEE-3D.jpg",
+      "id": 17
+    },
+    {
+      "title": "Футболка",
+      "price": "999",
+      "description": "S, L, M, XL, XXL ",
+      "category": "футболка",
+      "image": "https://avatars.mds.yandex.net/get-marketpic/370160/market_9wBELN3n2ZJqBnJ3CK7fNw/orig",
+      "id": 18
+    },
+    {
+      "title": "Футболка",
+      "price": "999",
+      "description": "S, L, M, XL, XXL ",
+      "category": "футболка",
+      "image": "http://ae01.alicdn.com/kf/HTB1n6CzXuL2gK0jSZPhq6yhvXXaU/-.jpg",
+      "id": 19
+    },
+    {
+      "Name": "",
+      "LastName": "",
+      "Age": "",
+      "category": "футболка",
+      "image": "https://printbar.ru/upload/images/9k/9k47iw7.jpg",
+      "id": 20,
+      "title": "Футболка",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999"
+    },
+    {
+      "Name": "",
+      "LastName": "",
+      "Age": "",
+      "category": "футболка",
+      "image": "http://ae01.alicdn.com/kf/H110daf2252294ea2af65a2ad41ba3bc9j.jpg",
+      "id": 21,
+      "title": "Футболка",
+      "description": "S, L, M, XL, XXL ",
+      "price": "999"
+    },
+    {
+      "title": "Штанга",
+      "price": 27680,
+      "description": "522кг",
+      "category": "снаряды",
+      "image": "http://2.bp.blogspot.com/-2xfeMU1pwpo/U0B15dUbymI/AAAAAAACDAI/hAFa7gWjFcI/s1600/DEPORTES+%2528MATERIAL+DEPORTIVO%2529+%252850%2529.png",
+      "id": 22
+    },
+    {
+      "title": "Штанга",
+      "price": 24569,
+      "description": "915кг",
+      "category": "снаряды",
+      "image": "https://homefitness.ie/wp-content/uploads/2019/06/york_barbell_set_160kg.jpeg",
+      "id": 23
+    },
+    {
+      "Name": "",
+      "LastName": "",
+      "Age": "",
+      "category": "снаряды",
+      "image": "https://prv2.lori-images.net/shtanga-na-belom-fone-0001487654-preview.jpg",
+      "id": 24,
+      "title": "Штанга",
+      "description": "95кг",
+      "price": "10000"
+    },
+    {
+      "image": "https://www.wallpaperflare.com/static/633/910/436/rod-athletics-%C2%A0white-background-black-wallpaper.jpg",
+      "category": "снаряды",
+      "id": 25,
+      "title": "Штанга",
+      "description": "50кг",
+      "price": "9800"
+    },
+    {
+      "image": "https://prv3.lori-images.net/razbornaya-gantel-s-raznotsvetnymi-diskami-na-belom-0003438411-preview.jpg",
+      "category": "снаряды",
+      "id": 26,
+      "title": "Штанга",
+      "description": "100кг",
+      "price": "20555"
+    },
+    {
+      "title": "Гантели",
+      "price": 35286,
+      "description": "346кг",
+      "category": "снаряды",
+      "image": "https://www.hop-sport.pl/media/photo/308/2x10_chrom_2.jpg",
+      "id": 27
+    },
+    {
+      "image": "https://forsport.pro/image/cache/catalog/easyphoto/22248/gantel-razbornaya-obrezinennaya-db-702-6-kg-1-800x800.jpg",
+      "category": "снаряды",
+      "id": 28,
+      "title": "Гантели",
+      "description": "35кг",
+      "price": "3000"
+    },
+    {
+      "image": "https://forum.na-svyazi.ru/uploads/202012/post-504387-1607609237-7608_thumb.jpg",
+      "category": "снаряды",
+      "id": 29,
+      "title": "Гантели",
+      "description": "25кг",
+      "price": "2800"
+    },
+    {
+      "image": "https://thumbs.dreamstime.com/b/большие-гантели-выреза-тяжелые-3289064.jpg",
+      "category": "снаряды",
+      "id": 30,
+      "title": "Гантели",
+      "description": "45кг",
+      "price": "3800"
+    },
+    {
+      "image": "https://clipart-best.com/img/dumbbell/dumbbell-clip-art-33.png",
+      "category": "снаряды",
+      "id": 31,
+      "title": "Гантели",
+      "description": "50кг",
+      "price": "4000"
+    },
+    {
+      "title": "Эспандер",
+      "price": 7038,
+      "description": "65кг",
+      "category": "снаряды",
+      "image": "https://www.madeinchina.com.uy/imgs/productos/productos6_4593.jpg",
+      "id": 32
+    },
+    {
+      "image": "https://toly.ru/image/catalog/product/gum-elastic-and-expanders/expander-latex-tubular-handles-yellow-2kg/1.jpg",
+      "category": "снаряды",
+      "id": 33,
+      "title": "Эспандер",
+      "description": "12кг",
+      "price": "800"
+    },
+    {
+      "title": "Эспандер",
+      "price": 8762,
+      "description": "78кг",
+      "category": "снаряды",
+      "image": "https://cdn1.ozone.ru/s3/multimedia-l/6008832009.jpg",
+      "id": 34
+    },
+    {
+      "title": "Эспандер",
+      "price": 8922,
+      "description": "76кг",
+      "category": "снаряды",
+      "image": "https://static.tildacdn.com/tild3430-3033-4636-a239-663365623266/45.png",
+      "id": 35
+    },
+    {
+      "title": "Эспандер",
+      "price": 1908,
+      "description": "14кг",
+      "image": "https://alphaplastic.ru/upload/iblock/c21/c215265f33a955de3a13a62cf828ce9f.jpg",
+      "category": "снаряды",
+      "id": 36
+    },
+    {
+      "title": "Эспандер",
+      "price": 9351,
+      "description": "59кг",
+      "image": "https://fight-space.ru/85048-thickbox_default/espander-absolute-champion-absolute-champion.jpg",
+      "category": "снаряды",
+      "id": 37
+    },
+    {
+      "title": "Эспандер",
+      "price": 3290,
+      "description": "97кг",
+      "image": "https://sportse.ru/upload/iblock/299/1hzb4tyap4181mhdqftu1fwaj3suzidw/hkce3055.jpg",
+      "category": "снаряды",
+      "id": 38
+    },
+    {
+      "title": "Турник",
+      "price": 2370,
+      "description": "Навесной",
+      "category": "снаряды",
+      "image": "https://idealturnik.ru/wa-data/public/shop/products/13/00/13/images/136237/136237.500.jpg",
+      "id": 39
+    },
+    {
+      "title": "Турник",
+      "price": 8519,
+      "description": "Навесной",
+      "image": "https://turnikmaster.ru/images/turnik_chempion.jpg",
+      "category": "снаряды",
+      "id": 40
+    },
+    {
+      "title": "Турник",
+      "price": 2942,
+      "description": "Навесной",
+      "image": "https://idealturnik.ru/wa-data/public/shop/products/51/41/14151/images/136272/136272.500.jpg",
+      "category": "снаряды",
+      "id": 41
+    },
+    {
+      "title": "Турник",
+      "price": 3372,
+      "description": "Навесной",
+      "image": "http://2train.ru.mitgroup.ru/upload/iblock/cf3/cf34116b82a33d169361346131df59f1.jpg",
+      "category": "снаряды",
+      "id": 42
+    },
+    {
+      "title": "Турник",
+      "price": 5406,
+      "description": "Навесной",
+      "image": "http://olimp.vrn.ru/images/cms/data/import_files/bd/turnik_nastennyj_obr.jpeg",
+      "category": "снаряды",
+      "id": 43
+    },
+    {
+      "title": "Турник",
+      "price": 7451,
+      "description": "Навесной",
+      "image": "https://cdn.shopify.com/s/files/1/1255/1285/products/Wall_Mounted_Pull_Up_Bar_2000x.jpg?v=1499524459",
+      "category": "снаряды",
+      "id": 44
+    },
+    {
+      "title": "Шорты",
+      "price": 1792,
+      "description": "Спортивные",
+      "category": "шорты",
+      "image": "https://www.sportkult.ru/ipreview/goods/820/820/441551_8700_408_single_.jpg",
+      "id": 45
+    },
+    {
+      "title": "Шорты",
+      "price": 9419,
+      "description": "Спортивные",
+      "image": "http://g03.a.alicdn.com/kf/HTB1GYoVIVXXXXaLXpXXq6xXFXXXX/32435086083.jpg",
+      "category": "шорты",
+      "id": 46
+    },
+    {
+      "title": "Шорты",
+      "price": 3122,
+      "description": "Спортивные",
+      "image": "https://shopogolik-club.ru/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/_/1_1__107.jpg",
+      "category": "шорты",
+      "id": 47
+    },
+    {
+      "title": "Шорты",
+      "price": 2847,
+      "description": "Спортивные",
+      "image": "https://e7.pngegg.com/pngimages/283/674/png-clipart-running-shorts-clothing-t-shirt-nike-black-mesh-shorts-sports-shoes-trunks.png",
+      "category": "шорты",
+      "id": 48
+    },
+    {
+      "title": "Шорты",
+      "price": 8186,
+      "description": "Спортивные",
+      "image": "http://www.4shopping.ru/media/coll/2012/01/4009/le-coq-sportif-4009-spring-summer-2012-0079.jpg",
+      "category": "шорты",
+      "id": 49
+    },
+    {
+      "title": "Шорты",
+      "price": 4556,
+      "description": "Спортивные",
+      "image": "https://cdn3.static1-sima-land.com/items/3194154/0/280.jpg?v=1532321531",
+      "category": "шорты",
+      "id": 50
+    },
+    {
+      "title": "Коньки",
+      "price": 952,
+      "description": "37, 38, 39, 40",
+      "category": "зимний",
+      "image": "https://images.ru.prom.st/417790253_w640_h640_fleur.jpg",
+      "id": 51
+    },
+    {
+      "title": "Коньки",
+      "price": 2331,
+      "description": "37, 38, 39, 40",
+      "image": "https://avatars.mds.yandex.net/get-mpic/1644362/img_id8914784121433142456.jpeg/orig",
+      "category": "зимний",
+      "id": 52
+    },
+    {
+      "title": "Коньки",
+      "price": 9247,
+      "description": "37, 38, 39, 40",
+      "image": "https://sc01.alicdn.com/kf/HTB15i0RPVXXXXcVaXXXq6xXFXXXy.jpg",
+      "category": "зимний",
+      "id": 53
+    },
+    {
+      "title": "Коньки",
+      "price": 2063,
+      "description": "37, 38, 39, 40",
+      "image": "https://images.by.prom.st/135808696_w200_h200_konki-figurnye-cksportivnaya.jpg",
+      "category": "зимний",
+      "id": 54
+    },
+    {
+      "title": "Коньки",
+      "price": 8450,
+      "description": "37, 38, 39, 40",
+      "image": "https://img2.freepng.ru/20180123/vtw/kisspng-ice-skate-ice-skating-roller-skates-computer-file-5a67f841177e81.7636805015167632010962.jpg",
+      "category": "зимний",
+      "id": 55
+    },
+    {
+      "title": "Коньки",
+      "price": 8760,
+      "description": "37, 38, 39, 40",
+      "image": "https://a.allegroimg.com/original/068000/e575227847a185e1df76db1edc20/LYZWY-figurowe-SMJ-solidne-OCIEPLANE-FUTREM-38",
+      "category": "зимний",
+      "id": 56
+    },
+    {
+      "title": "Коньки",
+      "price": 1786,
+      "description": "37, 38, 39, 40",
+      "image": "https://cdn1.ozone.ru/multimedia/1011432391.JPG",
+      "category": "зимний",
+      "id": 57
+    },
+    {
+      "title": "Лыжи",
+      "price": 3877,
+      "description": "Взрослый",
+      "category": "зимний",
+      "image": "http://www.tizlek.ru/uploads/product/500/579/a88813d75824dd17536ad1ebe76813c0.jpg",
+      "id": 58
+    },
+    {
+      "title": "Лыжи",
+      "price": 5675,
+      "description": "Взрослый",
+      "image": "https://cdn1.ozone.ru/multimedia/1007686076.jpg",
+      "category": "зимний",
+      "id": 59
+    },
+    {
+      "title": "Лыжи",
+      "price": 4333,
+      "description": "Взрослый",
+      "image": "https://kazan.pro-bike.ru/data/images/catalog/20/21920/1.jpg",
+      "category": "зимний",
+      "id": 60
+    },
+    {
+      "title": "Лыжи",
+      "price": 7810,
+      "description": "Взрослый",
+      "image": "https://im0-tub-ru.yandex.net/i?id=b5dc62757a1f24aaa26e501501c8e645&n=13",
+      "category": "зимний",
+      "id": 61
+    },
+    {
+      "title": "Лыжи",
+      "price": 218,
+      "description": "Взрослый",
+      "image": "https://fsd.multiurok.ru/html/2020/01/16/s_5e1f9242dc42f/1318533_8.png",
+      "category": "зимний",
+      "id": 62
+    },
+    {
+      "title": "Сноуборд",
+      "price": 56693,
+      "description": "Взрослый",
+      "category": "зимний",
+      "image": "https://im0-tub-ru.yandex.net/i?id=80b111a3b82ed4635c918d42438bca5c&n=13",
+      "id": 63
+    },
+    {
+      "title": "Сноуборд",
+      "price": 4338,
+      "description": "Взрослый",
+      "image": "https://im0-tub-ru.yandex.net/i?id=1e385e63c22fbfa1b4b174d202fd0f3b&n=13",
+      "category": "зимний",
+      "id": 64
+    },
+    {
+      "title": "Сноуборд",
+      "price": 304,
+      "description": "Взрослый",
+      "image": "https://msk.adrenalin24.ru/upload/iblock/d3c/d3c8dc0db5646efd684dff2072b7b098.jpeg",
+      "category": "зимний",
+      "id": 65
+    },
+    {
+      "title": "Сноуборд",
+      "price": 4973,
+      "description": "Взрослый",
+      "image": "http://www.snowlinks.ru/images/stories/0309/anounce/joystick/resort.jpg",
+      "category": "зимний",
+      "id": 66
+    },
+    {
+      "title": "Сноуборд",
+      "price": 7496,
+      "description": "Взрослый",
+      "image": "https://e7.pngegg.com/pngimages/238/1021/png-clipart-snowboarding-snowboard-sport-sports-equipment.png",
+      "category": "зимний",
+      "id": 67
+    },
+    {
+      "title": "Сноуборд",
+      "price": 7072,
+      "description": "Взрослый",
+      "image": "https://cdn1.ozone.ru/multimedia/1013901024.jpg",
+      "category": "зимний",
+      "id": 68
+    }
+  ]
+}
